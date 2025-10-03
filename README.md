@@ -12,6 +12,5 @@ This project allows customers to place orders from a menu, calculates total bill
 - Generate a receipt
 - Reset orders for a new customer
 
-## Technologies Used
-- Python 3.x
+
 
